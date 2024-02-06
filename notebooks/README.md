@@ -1,1 +1,1 @@
-# You can find these jupyter notebooks in [Kaggle](https://www.kaggle.com/viceriomarinowski/code) also.
+# You can find these jupyter notebooks in  my [Kaggle](https://www.kaggle.com/viceriomarinowski/code) account also.
