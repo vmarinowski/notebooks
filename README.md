@@ -1,2 +1,2 @@
-# notebooks
-This repository includes jupyter notebooks
+# Notebooks
+This repository includes some of my jupyter notebooks
